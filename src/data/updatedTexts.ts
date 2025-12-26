@@ -1,4 +1,4 @@
-import profileImg from 'src/assets/profile.png';
+import profileImg from '../assets/profile.png';
 export interface UpdatedText {
   name: string;
   role: string;
